@@ -1,6 +1,5 @@
 import re
-import requests
-import bs4
+
 print('-----------Calculator----------')
 print('available operastions: +,-,*,/ ')
 fake=True
